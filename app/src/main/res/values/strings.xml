@@ -3,4 +3,9 @@
     <string name="hint_name">Contraseña</string>
     <string name="user_name">Usuario</string>
     <string name="text">Login</string>
+    <string name="title">Título</string>
+    <string name="resume">Resumen</string>
+    <string name="date">Fecha</string>
+    <string name="last_new">rt</string>
+
 </resources>

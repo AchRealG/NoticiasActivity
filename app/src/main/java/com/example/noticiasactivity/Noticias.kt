@@ -1,6 +1,7 @@
 package com.example.noticiasactivity
 
-data class Noticias(val id: Long, var titulo: String, var resumen: String, var fecha: String, var imagen: String, var enlace: String) {
+data class Noticias(val id: Long, val titulo: String, val resumen: String, val fecha: String, val imagen: String, val enlace: String ) {
+
 
 
 }
