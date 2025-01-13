@@ -9,8 +9,9 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.example.noticiasactivity.Noticias
 import com.example.noticiasactivity.OnClickListener
-import com.example.practica3.R
-import com.example.practica3.databinding.ItemNoticiasBinding
+import com.example.noticiasactivity.R
+import com.example.noticiasactivity.databinding.ItemNoticiasBinding
+
 
 
 

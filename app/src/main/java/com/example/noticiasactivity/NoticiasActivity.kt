@@ -10,8 +10,8 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.practica3.R
-import com.example.practica3.databinding.ActivityMainBinding
+import com.example.noticiasactivity.databinding.ActivityMainBinding
+
 import java.util.prefs.Preferences
 
 class NoticiasActivity : AppCompatActivity(), OnClickListener {

@@ -1,4 +1,5 @@
-package com.example.noticiasactivity
+package com.example.practica3noticias
+
 
 import android.content.Intent
 import android.content.SharedPreferences
@@ -7,7 +8,8 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.ImageView
 import androidx.appcompat.app.AppCompatActivity
-import com.example.practica3.R
+import com.example.noticiasactivity.NoticiasActivity
+import com.example.noticiasactivity.R
 import com.google.android.material.textfield.TextInputEditText
 
 class LoginActivity : AppCompatActivity() {

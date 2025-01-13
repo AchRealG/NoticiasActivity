@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.practica3"
+    namespace = "com.example.noticiasactivity"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.practica3"
+        applicationId = "com.example.noticiasactivity"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
