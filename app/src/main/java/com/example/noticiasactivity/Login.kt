@@ -1,4 +1,4 @@
-package com.example.practica3noticias
+package com.example.noticiasactivity
 
 
 import android.content.Intent
